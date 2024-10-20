@@ -50,3 +50,27 @@ The system provides interactive maps for visualizing migration paths.
 Dataset
 The dataset used includes bird migration data collected over several years, with attributes such as species, date, location, and flight patterns.
 Data cleaning and preprocessing steps were implemented using Pandas for optimal performance.
+Team Members
+Aryan Phopali 
+Kaustubh panse 
+Poorva Singru
+Dowa Tandekar
+Suyash Wagade
+Kamlesh Pawar
+Future Work
+Enhance the ML model to cover more species and predict migration with higher accuracy.
+Integrate live data from satellite tracking and IoT bird tagging systems.
+Expand the platform to allow users to contribute observational data, creating a community-driven approach to migration tracking.
+Acknowledgments
+A special thanks to IBM for hosting DATATHON 24 and providing a platform for innovative solutions. Thanks to our mentors and teammates for their guidance and dedication throughout the project.
+
+License
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+This README gives a comprehensive summary of the project, its features, and how to set it up. Let me know if you’d like to make any modifications!
+
+
+
+
+
+
