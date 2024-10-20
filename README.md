@@ -29,7 +29,7 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/bird-migration-tracking-system.git
+git clone https://github.com/PROKILLER/bird-migration-tracking-system.git
 Navigate to the project directory:
 bash
 Copy code
